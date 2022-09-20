@@ -45,4 +45,3 @@ class Rectangle:
 
     def perimeter(self):
         """ parameter of rectangle """
-

@@ -45,4 +45,3 @@ class Rectangle:
 
     def area(self):
         """ Area of rectangle """
-

@@ -35,4 +35,3 @@ class Rectangle:
     @height.setter
     def height(self, value):
         """ setter """
-
