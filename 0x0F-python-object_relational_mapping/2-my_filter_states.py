@@ -21,4 +21,4 @@ if __name__ == "__main__":
         if state[1] == sys.argv[4]:
             print(state)
     c.close()
-    db.close)
+    db.close()
